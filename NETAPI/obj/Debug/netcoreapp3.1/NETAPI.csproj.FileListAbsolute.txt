@@ -43,3 +43,8 @@ C:\Users\CAKKAE\Documents\PROJECT\NETAPI\bin\Debug\netcoreapp3.1\runtimes\win-ar
 C:\Users\CAKKAE\Documents\PROJECT\NETAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\CAKKAE\Documents\PROJECT\NETAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\CAKKAE\Documents\PROJECT\NETAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CAKKAE\Documents\PROJECT\NETAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CAKKAE\Documents\PROJECT\NETAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CAKKAE\Documents\PROJECT\NETAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CAKKAE\Documents\PROJECT\NETAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CAKKAE\Documents\PROJECT\NETAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
