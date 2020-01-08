@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace NETAPI.Dtos
 {
-    public class UserForRegister
+    public class UserForRegisterDTO
     {
         [Required]
         public string Username { get; set; }
